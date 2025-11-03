@@ -3,8 +3,8 @@
 Aplicação em **Laravel** que simula um portal de venda de veículos com **área pública** (catálogo e detalhes) e **área administrativa** (CRUD de marcas, modelos, cores e veículos).  
 
 **Nomes:**
-Gabriel Moretto RA: 010624002
-Vitor Correa    RA: 010624002
+- Gabriel Moretto RA: 010624002
+- Vitor Correa    RA: 010624002
 
 **Como rodar o projeto:**
 - Instalar composer e npm;
