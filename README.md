@@ -26,6 +26,7 @@ DB_PASSWORD=
 - senha: password
 
 **Prints do projeto rodando:**
+
 <img width="1919" height="1021" alt="img1" src="https://github.com/user-attachments/assets/c09db8b4-a091-4fac-af6c-96f01432dd4d" />
 <img width="1916" height="1019" alt="img2" src="https://github.com/user-attachments/assets/70ef021a-22fe-4a12-bce2-711c990f383e" />
 <img width="1911" height="993" alt="img3" src="https://github.com/user-attachments/assets/4b75e101-9a44-4655-824d-b5d3d4eac97e" />
