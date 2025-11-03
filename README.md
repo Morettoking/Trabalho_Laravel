@@ -1,4 +1,3 @@
-
 # CarStore — Catálogo e Painel Admin (Laravel + Breeze)
 
 Aplicação em **Laravel** que simula um portal de venda de veículos com **área pública** (catálogo e detalhes) e **área administrativa** (CRUD de marcas, modelos, cores e veículos).  
