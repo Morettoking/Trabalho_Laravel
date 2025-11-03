@@ -26,22 +26,23 @@ DB_PASSWORD=
 - senha: password
 
 **Prints do projeto rodando:**
+<img width="1919" height="1021" alt="img1" src="https://github.com/user-attachments/assets/c09db8b4-a091-4fac-af6c-96f01432dd4d" />
+<img width="1916" height="1019" alt="img2" src="https://github.com/user-attachments/assets/70ef021a-22fe-4a12-bce2-711c990f383e" />
+<img width="1911" height="993" alt="img3" src="https://github.com/user-attachments/assets/4b75e101-9a44-4655-824d-b5d3d4eac97e" />
+<img width="1919" height="1002" alt="img4" src="https://github.com/user-attachments/assets/e9520da8-5b9c-41c0-9f66-747d268354ba" />
+<img width="1912" height="982" alt="img5" src="https://github.com/user-attachments/assets/6230eb50-5d90-473e-96e5-3e725d7c25b4" />
+<img width="1918" height="1079" alt="img6" src="https://github.com/user-attachments/assets/139e733d-6d75-42c1-8071-d5889b3bf33a" />
+<img width="1899" height="1078" alt="img7" src="https://github.com/user-attachments/assets/bd76af10-e6cf-4f9b-968d-5950dcae44f0" />
+<img width="1904" height="1079" alt="img8" src="https://github.com/user-attachments/assets/3542fab8-2a12-4992-a5d0-c080b2be444b" />
+<img width="1897" height="1076" alt="img9" src="https://github.com/user-attachments/assets/52f4e5d9-a0fe-4586-a453-6b91b82b9726" />
+<img width="1919" height="1079" alt="img10" src="https://github.com/user-attachments/assets/861068de-56d9-4dc5-b73e-2c65c0abb4d4" />
+<img width="1913" height="1078" alt="img11" src="https://github.com/user-attachments/assets/ab1164d3-6626-4c69-a3d5-2c9ae237aefe" />
+<img width="1919" height="1079" alt="img12" src="https://github.com/user-attachments/assets/b2365c12-9094-4bf8-b6aa-e6f1009f3255" />
+<img width="1902" height="1077" alt="img13" src="https://github.com/user-attachments/assets/2c912f27-7a20-4ff2-a5d9-b1cd748ca4a4" />
+<img width="1919" height="1079" alt="img14" src="https://github.com/user-attachments/assets/1b3ecd3e-7498-40fc-956a-62ca27e77275" />
+<img width="1919" height="1075" alt="img15" src="https://github.com/user-attachments/assets/f7a753d0-ecee-422c-bfdc-f48c5f1d9e43" />
 
-<img width="1919" height="1021" alt="img1" src="https://github.com/user-attachments/assets/1c7a700a-d28c-48a8-ac9b-5f701362d478" />
-<img width="1916" height="1019" alt="img2" src="https://github.com/user-attachments/assets/52a93e66-737c-403c-b23f-406683c4e349" />
-<img width="1911" height="993" alt="img3" src="https://github.com/user-attachments/assets/f2ef724b-0025-4600-8c11-0044e77dcded" />
-<img width="1919" height="1002" alt="img4" src="https://github.com/user-attachments/assets/c6d5cbe7-5172-4a9b-b105-ccc20860dce7" />
-<img width="1912" height="982" alt="img5" src="https://github.com/user-attachments/assets/321781ba-8732-4032-9385-24decba4c4c0" />
-<img width="1918" height="1079" alt="img6" src="https://github.com/user-attachments/assets/2e4d4921-bd5a-49a7-93de-c9a90afc4c28" />
-<img width="1899" height="1078" alt="img7" src="https://github.com/user-attachments/assets/38bf5196-f13b-45db-94dd-febfcb7f4150" />
-<img width="1904" height="1079" alt="img8" src="https://github.com/user-attachments/assets/63a925b9-4e3c-4cde-9c66-e6f73a3f9308" />
-<img width="1897" height="1076" alt="img9" src="https://github.com/user-attachments/assets/fca6d693-741c-412b-ad8c-33ce7cd521d7" />
-<img width="1919" height="1079" alt="img10" src="https://github.com/user-attachments/assets/198a435f-3fe2-4058-af6f-8f317551bf29" />
-<img width="1913" height="1078" alt="img11" src="https://github.com/user-attachments/assets/ee1ae375-9db0-483a-869b-535f73c7d83a" />
-<img width="1919" height="1079" alt="img12" src="https://github.com/user-attachments/assets/41aa21cc-218a-42ac-b257-ad074ee78328" />
-<img width="1902" height="1077" alt="img13" src="https://github.com/user-attachments/assets/32f74964-c789-4b92-854b-ddb3317d0b76" />
-<img width="1919" height="1079" alt="img14" src="https://github.com/user-attachments/assets/5469b1f5-034f-4fdd-9f47-c5cf3fe87545" />
-<img width="1919" height="1075" alt="img15" src="https://github.com/user-attachments/assets/de5eea99-0cc3-4dc0-ab74-445dac71987d" />
+
 
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
